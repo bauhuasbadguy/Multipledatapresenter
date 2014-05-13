@@ -27,4 +27,4 @@ Future updates
 ===============
 
 I'm too lazy to add any more features unless I find something I might need in the future so if you want more bells and 
-wistels feel free to fork the repository
+whistles feel free to fork the repository.

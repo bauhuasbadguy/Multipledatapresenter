@@ -1,6 +1,13 @@
 #quick data presenter
 #Written by Stuart Bowe
 #13/05/14
+# TODO:
+# - Add command line argument parser: filenames, target folder, intro file
+#   (see OOMMF Tools)
+# - Add batch procesing e.g. using glob to add all files of a particular
+#   format to the latex document
+# - Have the option to include a plain text/latex markup file to introduce
+#   the list of files.
 import os
 
 def openinglines(filename):
